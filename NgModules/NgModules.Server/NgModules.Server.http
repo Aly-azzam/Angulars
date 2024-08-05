@@ -1,0 +1,6 @@
+@NgModules.Server_HostAddress = http://localhost:5264
+
+GET {{NgModules.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

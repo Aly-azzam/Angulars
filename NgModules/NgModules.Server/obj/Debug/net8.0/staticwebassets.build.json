@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "kqxF5uCGoeeMXkSgWLstnh8FYOIE4iEF70JuK93UEDM=",
+  "Source": "NgModules.Server",
+  "BasePath": "_content/NgModules.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\aliaz\\Desktop\\Internship\\NgModules\\ngmodules.client\\ngmodules.client.esproj",
+      "Version": 2,
+      "Source": "ngmodules.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

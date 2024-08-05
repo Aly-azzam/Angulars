@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\services",
+    "\\src\\app\\weather-forecast"
+  ],
+  "SelectedNode": "\\src\\app\\services\\weather-forecast.service.spec.ts",
+  "PreviewInSolutionExplorer": false
+}
